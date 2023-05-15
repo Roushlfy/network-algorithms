@@ -18,7 +18,8 @@ The Network Algorithms Library is a Python library that provides a collection of
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/network-algorithms.git
+git clone https://github.com/Roushlfy/network-algorithms.git
+git clone git@github.com:Roushlfy/network-algorithms.git
 cd network-algorithms
 ```
 
