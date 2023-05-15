@@ -103,4 +103,4 @@ If you have any questions, suggestions, or feedback, feel free to reach out to u
 
 ## License
 
-The Network Algorithms Library is licensed under the [MIT License](link-to-license-file).
+The Network Algorithms Library is licensed under the [MIT License](LICENSE).
